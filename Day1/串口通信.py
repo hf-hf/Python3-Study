@@ -1,7 +1,7 @@
 # coding=utf-8
 import serial
 #import pyserial
-import pymysql
+#import pymysql
 import threading
 import time
 x = serial.Serial('COM2', 9600)#这是我的串口，测试连接成功，没毛病
